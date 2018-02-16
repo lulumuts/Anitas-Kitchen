@@ -1,31 +1,21 @@
 .header {
   background-image: url(../img/backgrounds/landing.jpg);
-}
-
-#logo {
+  height: 80vh;
+  margin-left: 0;
+  margin-right: 0;
   text-align: center;
+  color: white;
+  font-family: 'Glegoo', serif;
+  font-size: 18px;
+}
 }
 
- h1 {
-   text-align: center;
-   font-size: 30px;
-   color: white;
-   font-family: 'Glegoo', serif;
+.logo {
+  text-align: center;
 
- }
- #logo {
-   padding-top: 100px;
- }
+}
+
 
  .sidebar {
    float:left;
- }
- #foodtop {
-float: right;
- width: 0px;
- margin: 0px;
- padding: 0px;
- outline: 0px;
-}
-
  }
