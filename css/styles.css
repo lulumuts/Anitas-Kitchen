@@ -7,9 +7,16 @@
    float: right;
    font-size: 50px;
    color: white;
+   font-family: 'Glegoo', serif;
 
  }
  #logo {
-   position: relative;
    padding-top: 70px;
+ }
+ body {
+   text-align: center;
+ }
+
+ .sidebar {
+   float:left;
  }
