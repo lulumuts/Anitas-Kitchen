@@ -13,18 +13,20 @@
 
 }
 
- .imageBreakfast {
-      background-image: url(../img/foodtop/breakfast.jpg);
-       width:300px;
-       height:200px;
-       float:right;
-       position: relative;
-       padding: 80px;
-       padding-right: 90px;
-       text-align: center;
-       color: white;
 
- }
+.imageDinner {
+  width:300px;
+  height:200px;
+  background-image: url(../img/foodtop/dinner.jpg);
+  float:right;
+  padding: 80px;
+  padding-right: 90px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: 'Glegoo', serif;
+
+}
 
 .imageLunch {
     width:300px;
@@ -36,19 +38,39 @@
     padding-left: 90px;
     text-align: center;
     color: white;
+    font-size: 20px;
+    font-family: 'Glegoo', serif;
 }
- .imageDinner {
-   width:300px;
-   height:200px;
-   background-image: url(../img/foodtop/dinner.jpg);
-   float:right;
-   padding: 80px;
-   padding-right: 90px;
-   text-align: center;
-   color: white;
 
- }
+ .imageBreakfast {
+      background-image: url(../img/foodtop/breakfast.jpg);
+       width:300px;
+       height:200px;
+       float:right;
+       position: relative;
+       padding: 80px;
+       padding-right: 90px;
+       text-align: center;
+       color: white;
+       font-size: 20px;
+       font-family: 'Glegoo', serif;
+     }
 
- .sidebar {
-   float: left;
- }
+.test-box {
+  font-family: 'Glegoo', serif;
+  text-align: center;
+  height: 100px;
+  width: 130px;
+  padding:150px;
+
+}
+.text-box {
+  font-family: 'Glegoo', serif;
+  text-align: center;
+  height: 28px;
+  width: 130px;
+}
+
+.sidebar {
+  padding:50px;
+}
