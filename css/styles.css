@@ -150,9 +150,22 @@
   font-size: 50px;
 }
 
-.button {
+.section{
+  background-image: url(../img/backgrounds/foodsBg.jpg);
+  float:right;
+
+}
+.gallery {
   text-align: center;
   margin-top: 15vh;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  padding-bottom: 30px;
+  background-color: white;
+
+
 }
 #fast-food{
   padding: 15px 110px;
@@ -197,4 +210,25 @@
   border-spacing: 20px;
   /* text-align: center; */
   /* padding-right: 5px; */
+}
+.footer {
+  background-color:#F15A29;
+  left: 0;
+  bottom: 0;
+  width: 200%;
+  height:10%;
+  color: white;
+  padding-top:9%;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  position:fixed;
+
+}
+
+.navbar, .navbar-inverse {
+    border-radius: 0;
+    border: none;
+    margin-bottom: 0;
+    min-height: 80px;
 }
