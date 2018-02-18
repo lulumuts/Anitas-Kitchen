@@ -1,10 +1,10 @@
 .header {
   background-image: url(../img/backgrounds/landing.jpg);
-  height: 60vh;
+  height: 70vh;
   text-align: center;
   color: white;
   font-family: 'Glegoo', serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -12,6 +12,66 @@
   text-align: center;
 
 }
+
+/* Add a black background color to the top navigation */
+. nav navbar-nav {
+    /* background-color: #F15A29; */
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.nav navbar-nav a {
+    float: left;
+    display: block;
+    color: #F15A29;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar-nav a:hover {
+    /* background-color: #ddd; */
+    color: #F15A29;
+    opacity:80%;
+}
+
+/* Add an active class to highlight the current page */
+/* .active {
+    /
+    color: white;
+} */
+
+/* Hide the link that should open and close the topnav on small screens */
+/* .topnav .icon {
+    display: none;
+} */
+/* .navbar, .navbar-inverse {
+	border-radius: 0;
+	border: none;
+	margin-bottom: 0;
+	min-height: 80px;
+}
+
+.nav li {
+	display: inline;
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #ffffff;
+	font-family: Lato;
+	font-size: 1.7em;
+	font-weight: 300;
+	padding: 30px 25px 33px 25px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	background-color: #444444;
+	transition: 0.7s all linear;
+	height: 100%;
+} */
 
 
 .imageDinner {
@@ -231,4 +291,26 @@
     border: none;
     margin-bottom: 0;
     min-height: 80px;
+}
+
+.nav li {
+    display: inline;
+    color: white;
+}
+
+/* .navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 1.7em;
+    font-weight: 300;
+    padding: 30px 25px 33px 25px;
+  }
+  .navbar-inverse .navbar-nav li a:hover {
+    background-color: #444444;
+    transition: 0.7s all linear;
+    height: 100%;
+} */
+
+.glyphicon-menu-hamburger {
+  font-size: npx;
 }
