@@ -16,7 +16,7 @@
 
 .imageDinner {
   width:300px;
-  height:197px;
+  height:205px;
   background-image: url(../img/foodtop/dinner.jpg);
   float:right;
   padding: 80px;
@@ -30,7 +30,7 @@
 
 .imageLunch {
     width:300px;
-    height:197px;
+    height:205px;
     background-image: url(../img/foodtop/lunch.jpg);
     float:right;
     position: relative;
@@ -45,7 +45,7 @@
  .imageBreakfast {
       background-image: url(../img/foodtop/breakfast.jpg);
        width:300px;
-       height:197px;
+       height:205px;
        float:right;
        position: relative;
        padding: 80px;
@@ -155,18 +155,46 @@
   margin-top: 15vh;
 }
 #fast-food{
-  padding: 15px 100px;
-  border-color: green;
+  padding: 15px 110px;
+  border: none;
+  color:#F15A29;
+  font-family: 'Glegoo', serif;
+
 }
 #drinksss{
-  padding: 15px 100px;
-  border-color: green;
+  padding: 15px 110px;
+  border: none;
+  font-family: 'Glegoo', serif;
 }
 #chicken{
-  padding: 15px 100px;
-  border-color: green;
+  padding: 15px 110px;
+  border: none;
+  font-family: 'Glegoo', serif;
 }
 #Rice{
-  padding: 15px 100px;
-  border-color: green;
+  padding: 15px 110px;
+  border: none;
+  font-family: 'Glegoo', serif;
+}
+
+#chickenBurger {
+  padding-top: 30px;
+  padding-left: 20vh;
+  color:#F15A29;
+  /* text-align: center; */
+  /* padding-right: 5vh; */
+}
+#chickenPizza {
+  padding-top: 30px;
+  padding-left: 24vh;
+  color:#F15A29;
+  /* text-align: center; */
+}
+#beefBurger{
+  padding-top: 30px;
+  padding-left: 22vh;
+  color:#F15A29;
+  border-spacing: 20px;
+  /* text-align: center; */
+  /* padding-right: 5px; */
 }
