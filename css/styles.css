@@ -96,6 +96,18 @@
    padding-left: 30vh;
 
  }
-/* .sidebar {
-  padding:50px;
-} */
+
+.drink-img {
+  /* float:right; */
+  border-top: 800vh;
+}
+.drink1 {
+  float:right;
+  margin-top: 20vh;
+  /* margin-right: 20%; */
+}
+.drink2 {
+  float:right;
+  margin-top: 20vh;
+  margin-right: 150vh;
+}
