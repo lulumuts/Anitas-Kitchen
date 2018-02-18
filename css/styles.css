@@ -88,7 +88,7 @@
 .fastfood {
   margin-top: 25%;
   margin-left: 10%;
-  border-left: 60vh;
+  border-left: 35vh;
 
 
 }
@@ -98,16 +98,25 @@
  }
 
 .drink-img {
-  /* float:right; */
+
   border-top: 800vh;
 }
 .drink1 {
   float:right;
   margin-top: 20vh;
-  /* margin-right: 20%; */
+
 }
 .drink2 {
   float:right;
   margin-top: 20vh;
-  margin-right: 150vh;
+  padding-right: 9vh;
+  /* margin-right: 30vh; */
+}
+.drinks {
+  text-align: justify;
+  padding-top: 8vh;
+  padding-left: 19vh;
+}
+.drinktext {
+  text-align: right;
 }
