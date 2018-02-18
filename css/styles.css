@@ -16,7 +16,7 @@
 
 .imageDinner {
   width:300px;
-  height:200px;
+  height:197px;
   background-image: url(../img/foodtop/dinner.jpg);
   float:right;
   padding: 80px;
@@ -30,7 +30,7 @@
 
 .imageLunch {
     width:300px;
-    height:200px;
+    height:197px;
     background-image: url(../img/foodtop/lunch.jpg);
     float:right;
     position: relative;
@@ -45,7 +45,7 @@
  .imageBreakfast {
       background-image: url(../img/foodtop/breakfast.jpg);
        width:300px;
-       height:200px;
+       height:197px;
        float:right;
        position: relative;
        padding: 80px;
@@ -114,9 +114,59 @@
 }
 .drinks {
   text-align: justify;
-  padding-top: 8vh;
+  padding-top: 17vh;
   padding-left: 19vh;
 }
 .drinktext {
   text-align: right;
+  font-family: 'Glegoo', serif;
+  /* font-weight: bold; */
+  font-size: 50%;
+}
+#drinks {
+  border-color: #F15A29;
+   border-width: thin;
+   text-align: right;
+   color: #F15A29;
+   margin-left: 32vh;
+   margin-top: 10px;
+   font-size: 130%;
+
+
+}
+
+#fastfood {
+  border-color: #F15A29;
+   border-width: thin;
+   text-align: right;
+   color: #F15A29;
+   margin-top: 15px;
+   font-size: 130%;
+
+}
+#fastfood2{
+  font-family: 'Glegoo', serif;
+  /* font-weight: bold; */
+  font-size: 50px;
+}
+
+.button {
+  text-align: center;
+  margin-top: 15vh;
+}
+#fast-food{
+  padding: 15px 100px;
+  border-color: green;
+}
+#drinksss{
+  padding: 15px 100px;
+  border-color: green;
+}
+#chicken{
+  padding: 15px 100px;
+  border-color: green;
+}
+#Rice{
+  padding: 15px 100px;
+  border-color: green;
 }
