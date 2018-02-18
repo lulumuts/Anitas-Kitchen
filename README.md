@@ -1,14 +1,9 @@
-# Independent Project
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.`
-
-  4) Fill in the form under the IP submission <!--(http://moringaprep-ft.herokuapp.com/#10.html)--> heading in the LMS
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+# Anita's Kitchen
+#### This is a website created to display the food available for Anita's Kitchen, 18/02/2018
+#### By Lulu Mutuli
+ ## Anita's Kitchen is a website that was commissioned for the sake of selling and advertising Anita's products in her restaurant and to drive her customer base.
+  ## Written in HTML and CSS, and some javascript, but not intensively.
+  ## If you run into any issues, please do not hesitate to contact me at lulumutuli24@gmail.com
+   ### License  Copyright (c) {year} **{Lulu Mutuli}**
